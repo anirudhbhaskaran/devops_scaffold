@@ -112,3 +112,5 @@ Before committing:
 - [ ] No port conflicts
 - [ ] Data persists after restart
 - [ ] Logs show no critical errors
+
+---

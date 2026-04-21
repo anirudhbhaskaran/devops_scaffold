@@ -11,7 +11,7 @@ Designed for quick bootstrapping and easy extension.
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Docker
