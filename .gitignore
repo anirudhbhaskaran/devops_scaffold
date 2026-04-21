@@ -1,0 +1,22 @@
+# Docker
+.dockerignore
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Logs
+*.log
+logs/
+
+# Secrets / local overrides
+*.pem
+*.key
+.env.local
+.env.*.local
+
+# Mongo / Redis data (local volumes)
+data/
